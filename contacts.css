@@ -1,17 +1,26 @@
-.row {
-    display: flex;
-  }
-  
-  .column {
-    flex: 50%;
-  }
-
-  h1{
-      color: black;
-      size: 40px;
-  }
-
-  .row {
-      align-items: center;
-      
-  }
+.section {
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+h1{
+  color: black;
+  size: 40px;
+}
+.container{
+  max-width: 860px;
+  margin:0 auto;
+  display: flex;
+  justify-content: center;
+}
+.column1{
+  width: 50%;
+}
+.column2{
+  width: 50%;
+}
+#e0b35d3b-637f-4cd2-a9fd-b6e76c92ec56{
+  width: 70%;
+  height:auto;
+  margin: 18px;
+}
+ 
