@@ -7,20 +7,33 @@ h1{
   size: 40px;
 }
 .container{
-  max-width: 860px;
-  margin:0 auto;
-  display: flex;
-  justify-content: center;
+  max-width: 1140px;
+  margin: 10% auto 0 auto;
 }
+.box { 
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .column1{
   width: 50%;
 }
-.column2{
+.column2 {
   width: 50%;
 }
+.input{
+  margin: 10px;
+  width: 60%;
+}
+#submit_button{
+  margin: 10px;
+}
+
 #e0b35d3b-637f-4cd2-a9fd-b6e76c92ec56{
   width: 70%;
   height:auto;
   margin: 18px;
 }
- 
+.map{
+  max-width: 1140px;
+  margin: 0 auto 0 auto;
